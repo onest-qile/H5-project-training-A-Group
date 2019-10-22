@@ -7,7 +7,7 @@
 |5|健康快乐一小组|王炎（组长）、李沛伦、王莹莹、李梦雪、韩雅宁、张晓贇|https://github.com/wangyan4/ProjectPractice|待定|
 |6|lmbo|官源斌（组长）  王耀鹏  韩嘉昕 孔祥宇|https://github.com/guanyuanbin1313/lmbo|待定|
 |7|勤时明月|张鑫涛（组长），郭子郡，周扬，秦继贤|https://github.com/zhangxintaobb/software-process-homework|待定|
-|8|下一组|姜皓天（组长） 赵一鸣，曾雨晴，马晓艳，李雪纯，安文悦||待定|
+|8|下一组|姜皓天（组长） 赵一鸣，曾雨晴，马晓艳，李雪纯，安文悦|https://github.com/lemonoink/software-process-homework|待定|
 |9|我们爱学习|尚春丽（组长）常延欣，银美丽，张洁|https://github.com/shangchunli/Project|待定|
 |10|正儿八经组|冀琳（组长）、何家瑶、王月娇、王慰聪、孙丽颖|https://github.com/Jilinlin/software-process-homework|待定|
 |11|Random|王予诺（组长） 杨迪 郑尚姿 范钰敏 杜瑜萌 张宇娟|https://github.com/wangyn1998/Project-of-Random|待定|
