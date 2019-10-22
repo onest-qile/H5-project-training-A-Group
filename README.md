@@ -5,7 +5,7 @@
 |3|exceed|卢毅双(组长)，李佳，李召云，闫佳莹，董全鹤|https://github.com/luyishuang/software-process-homework|待定|
 |4|一个方向|王亚红（组长）、董晓倩、孙妍、范珂欣、李雪、黄远龙|https://github.com/wangyahong423/OneDirection|待定|
 |5|健康快乐一小组|王炎（组长）、李沛伦、王莹莹、李梦雪、韩雅宁、张晓贇|https://github.com/wangyan4/ProjectPractice|待定|
-|6|lmbo|官源斌（组长）  王耀鹏  韩嘉昕 孔祥宇|https://github.com/guanyuanbin1313/lmbo|待定|
+|6|lmbo|官源斌（组长）  王耀鹏  韩嘉昕 孔祥宇 张春庆|https://github.com/guanyuanbin1313/lmbo|待定|
 |7|勤时明月|张鑫涛（组长），郭子郡，周扬，秦继贤|https://github.com/zhangxintaobb/software-process-homework|待定|
 |8|下一组|姜皓天（组长） 赵一鸣，曾雨晴，马晓艳，李雪纯，安文悦|https://github.com/lemonoink/software-process-homework|待定|
 |9|我们爱学习|尚春丽（组长）常延欣，银美丽，张洁|https://github.com/shangchunli/Project|待定|
