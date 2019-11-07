@@ -12,5 +12,5 @@
 |10|正儿八经组|冀琳（组长）、何家瑶、王月娇、王慰聪、孙丽颖|https://github.com/Jilinlin/software-process-homework|待定|
 |11|Random|王予诺（组长） 杨迪 郑尚姿 范钰敏 杜瑜萌 张宇娟|https://github.com/wangyn1998/Project-of-Random|待定|
 |12|The-Five-elements|乔晓悦（组长），付逍遥，李婷，刘丹青，侯德森|https://github.com/Qiaoxiaoyue-799/The-Five-elements|待定|
-|13|he Matrix|董逸凡（组长），薛腾飞，薛明星，房世又，李继业|https://github.com/DonGYifan00/RuanjianGongcheng|待定|
+|13|he Matrix|董逸凡（组长），薛腾飞，薛明星，房世有，李继业|https://github.com/DonGYifan00/RuanjianGongcheng|待定|
 |14|承前启后|吕锋（组长） 柳江浩、吴晓岛、黄天润、秦晓旭 冯邵一  穆龙云|https://github.com/lvshufeng520/software-engineering|高校畅游通|
